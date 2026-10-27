@@ -1,3 +1,7 @@
+## ## Assessment Walkthrough Video
+
+[Watch the assessment walkthrough recording](https://1drv.ms/v/c/f19bde3ddcc583ca/IQAaDVSGHy_LTZZEl96RAPskAU37QvIn60lv2Eq3rglalqY?e=KOfRMO)
+
 # Haven — Platform Infrastructure Assessment
 
 Haven is a multi-tenant real estate platform.
